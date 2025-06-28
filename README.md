@@ -21,27 +21,25 @@ OpenAPI
 
 
 📌 Requisitos do Desafio
-Criar um livro
 
-Visualizar todos os livros
+📘 Criar um livro
 
-Editar informações de um livro
+📖 Visualizar todos os livros
 
-Excluir um livro 
+✏️ Editar informações de um livro
+
+❌ Excluir um livro
 
 
-📖 Campos do Livro
-id (identificador único)
+### 📚 Campos do Livro
 
-title (título)
+- 🆔 `id` – Identificador único
+- 📖 `title` – Título do livro
+- ✍️ `author` – Nome do autor
+- 🧬 `gender` – Gênero (ex: ficção, romance, mistério)
+- 💵 `price` – Preço
+- 📦 `quantity` – Quantidade em estoque
 
-author (autor)
-
-gender (gênero – ex: ficção, romance, mistério)
-
-price (preço)
-
-quantity (quantidade em estoque)
 
 
 🛠️ Como Executar
