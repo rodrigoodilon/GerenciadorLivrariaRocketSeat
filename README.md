@@ -58,7 +58,7 @@ Abra o projeto no Visual Studio
 Execute o projeto: Pressione F5 ou clique em "Iniciar Depuração"
 
 ## 📸 Demonstração
-![Exemplo da API rodando](https://github.com/rodrigoodilon/GerenciadorLivrariaRocketSeat/raw/main/exemplo_api.png)
+![Exemplo da API rodando](./exemplo_api.png)
 
 ## 👨‍💻 Autor
 
