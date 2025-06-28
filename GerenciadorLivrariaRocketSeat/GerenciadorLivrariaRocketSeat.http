@@ -1,0 +1,6 @@
+@GerenciadorLivrariaRocketSeat_HostAddress = http://localhost:5229
+
+GET {{GerenciadorLivrariaRocketSeat_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
