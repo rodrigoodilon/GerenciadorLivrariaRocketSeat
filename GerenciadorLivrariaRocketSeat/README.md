@@ -27,7 +27,7 @@ Visualizar todos os livros
 
 Editar informações de um livro
 
-Excluir um livro
+Excluir um livro 
 
 
 📖 Campos do Livro
