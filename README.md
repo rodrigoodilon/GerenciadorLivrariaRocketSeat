@@ -45,7 +45,7 @@ OpenAPI
 🛠️ Como Executar
 Clone o repositório:
 
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/rodrigoodilon/GerenciadorLivrariaRocketSeat.git
 
 Navegue até o diretório do projeto:
 
